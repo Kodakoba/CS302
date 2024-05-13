@@ -1,0 +1,8 @@
+Reno SF 218
+Reno Vegas 439
+Reno Seattle 704
+Reno SLC 518
+SLC Vegas 421
+Seattle SLC 840
+Seattle SF 808
+SF Vegas 568

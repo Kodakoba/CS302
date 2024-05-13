@@ -1,0 +1,28 @@
+Reno -> SF -> Vegas -> Seattle -> Reno - Distancece: 1490 mi. Cost: $130.375
+Reno -> SF -> Vegas -> SLC -> Reno - Distancece: 1725 mi. Cost: $150.938
+Reno -> SF -> Seattle -> Vegas -> Reno - Distancece: 1465 mi. Cost: $128.188
+Reno -> SF -> Seattle -> SLC -> Reno - Distancece: 2384 mi. Cost: $208.6
+Reno -> SF -> SLC -> Seattle -> Reno - Distancece: 1762 mi. Cost: $154.175
+Reno -> SF -> SLC -> Vegas -> Reno - Distancece: 1078 mi. Cost: $94.325
+Reno -> Vegas -> SF -> Seattle -> Reno - Distancece: 2519 mi. Cost: $220.412
+Reno -> Vegas -> SF -> SLC -> Reno - Distancece: 1525 mi. Cost: $133.438
+Reno -> Vegas -> Seattle -> SF -> Reno - Distancece: 1465 mi. Cost: $128.188
+Reno -> Vegas -> Seattle -> SLC -> Reno - Distancece: 1797 mi. Cost: $157.237
+Reno -> Vegas -> SLC -> Seattle -> Reno - Distancece: 2404 mi. Cost: $210.35
+Reno -> Vegas -> SLC -> SF -> Reno - Distancece: 1078 mi. Cost: $94.325
+Reno -> Seattle -> Vegas -> SF -> Reno - Distancece: 1490 mi. Cost: $130.375
+Reno -> Seattle -> Vegas -> SLC -> Reno - Distancece: 1643 mi. Cost: $143.763
+Reno -> Seattle -> SF -> Vegas -> Reno - Distancece: 2519 mi. Cost: $220.412
+Reno -> Seattle -> SF -> SLC -> Reno - Distancece: 2030 mi. Cost: $177.625
+Reno -> Seattle -> SLC -> SF -> Reno - Distancece: 1762 mi. Cost: $154.175
+Reno -> Seattle -> SLC -> Vegas -> Reno - Distancece: 2404 mi. Cost: $210.35
+Reno -> SLC -> Vegas -> Seattle -> Reno - Distancece: 1643 mi. Cost: $143.763
+Reno -> SLC -> Vegas -> SF -> Reno - Distancece: 1725 mi. Cost: $150.938
+Reno -> SLC -> Seattle -> Vegas -> Reno - Distancece: 1797 mi. Cost: $157.237
+Reno -> SLC -> Seattle -> SF -> Reno - Distancece: 2384 mi. Cost: $208.6
+Reno -> SLC -> SF -> Seattle -> Reno - Distancece: 2030 mi. Cost: $177.625
+Reno -> SLC -> SF -> Vegas -> Reno - Distancece: 1525 mi. Cost: $133.438
+
+BEST PATH:
+Reno -> SF -> SLC -> Vegas -> Reno
+ Cost: $94.325

@@ -1,0 +1,8 @@
+cargo coal 200.0
+cargo hay 40.0
+cargo magnets 2149.23
+cargo games 20.1
+person 200.0 Jeremy
+person 196.3 Derrick
+person 168.2 Linda
+person 212.9 Shawn
